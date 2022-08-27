@@ -1,0 +1,15 @@
+JAVA TUTORIAL FOR BEGINNERS 
+
+-Every Java program must contain at least one class that contains the main function
+- A Class is a container for related functions, and for organize our code
+- A method is a function that is part of a class
+
+
+
+
+
+1- Estude o mercado e as vagas
+2- Portfolio e projetos completos
+3- metodologias ágeis, gestão de projetos
+4 - acima da média
+5 - o que a empresa deseja
